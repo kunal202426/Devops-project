@@ -181,8 +181,8 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 ## 🛠️ **Author & Community**
 
 
-This project is crafted and maintained by the open source community.  
-Your feedback and contributions are welcome!  
+This project is crafted and maintained by the open source community. Original Author may contact for the mentions and credits.   
+Your feedbacks are welcome!  
 
 ![Author Badge](https://img.shields.io/badge/🛠️%20Author%20&%20Community-Crafted%20with%20Passion%20by%20the%20Community-8a2be2?style=for-the-badge&logo=github&logoColor=white)
 ---
