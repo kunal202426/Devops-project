@@ -23,7 +23,7 @@ In This Project, we are Developing and Deploying a video streaming application o
 Clone this Repository
 
 ```elixir
-git clone https://github.com/NotHarshhaa/DevOps-Projects.git
+git clone <your-repo-url>
 ```
 
 # **Project Architecture**
@@ -325,14 +325,14 @@ sudo service codedeploy-agent status
 
 ## 🛠️ Author & Community  
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
+This project is crafted and maintained by the open-source community.  
 I’d love to hear your feedback! Feel free to share your thoughts.  
 
 📧 **Connect with me:**
 
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
+- **GitHub**: [Your GitHub Username](https://github.com/your-github-username)
+- **Blog**: [Community Blog]()  
+- **Telegram Community**: [Join Here]()  
 
 ---
 

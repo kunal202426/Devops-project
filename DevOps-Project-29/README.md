@@ -975,7 +975,7 @@ I’d love to hear your feedback! Feel free to share your thoughts.
 
 - **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
 - **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
+- **Telegram Community**: [Join Here]()  
 
 ---
 

@@ -36,10 +36,10 @@ By implementing DevSecOps practices and leveraging modern technologies like Kube
 
 1. Clone the GitHub repository.
 
-**GITHUB REPO**: [Chatbot-UI](https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-28/Chatbot-UI)
+**GITHUB REPO**: [Chatbot-UI]()
 
 ```
-git clone https://github.com/NotHarshhaa/DevOps-Projects/DevOps-Project-28/Chatbot-UI
+git clone <your-repo-url>
 cd Jenkins-Server-TF
 ```
 
@@ -475,15 +475,15 @@ pipeline{
                 script{
                    withDockerRegistry(credentialsId: 'docker', toolName: 'docker'){   
                        sh "docker build -t chatbot ."
-                       sh "docker tag chatbot ProDevOpsGuyTech/chatbot:latest "
-                       sh "docker push ProDevOpsGuyTech/chatbot:latest "
+                       sh "docker tag chatbot chatbot:latest "
+                       sh "docker push chatbot:latest "
                     }
                 }
             }
         }
         stage("TRIVY"){
             steps{
-                sh "trivy image ProDevOpsGuyTech/chatbot:latest > trivy.json" 
+                sh "trivy image chatbot:latest > trivy.json" 
             }
         }
         stage ("Remove container") {
@@ -528,14 +528,14 @@ terraform destroy -auto-approve -var-file=variables.tfvars
 
 ## 🛠️ Author & Community  
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
+This project is crafted and maintained by the open-source community.  
 I’d love to hear your feedback! Feel free to share your thoughts.  
 
 📧 **Connect with me:**
 
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
+- **GitHub**: [Your GitHub Username](https://github.com/your-github-username)
+- **Blog**: [Community Blog]()  
+- **Telegram Community**: [Join Here]()  
 
 ---
 

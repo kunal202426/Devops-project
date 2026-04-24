@@ -59,7 +59,7 @@ To improve readability and accessibility for users, this repository is also avai
 
 A website showcasing a curated list of major real-time DevOps and Cloud projects, ranging from beginner to advanced levels. Built using **Next.js** and styled with **Tailwind CSS**, this project leverages a modern starter template for fast and responsive development. Perfect for learning and exploring hands-on DevOps and Cloud concepts!
 
-🔗 **Explore the site**: [projects.prodevopsguytech.com](https://projects.prodevopsguytech.com)
+🔗 **Explore the site**: 
 
 ![Showcase Website](https://img.shields.io/badge/🌐%20Project%20Showcase-Next.js%20+%20Tailwind%20UI-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -77,7 +77,7 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 * **Industry-Relevant** projects covering EC2, VPC, RDS, Lambda, and more
 * **Community Driven** with active contributions and AWS expertise
 
-🔗 **Visit the AWS repository**: [AWS-Projects](https://github.com/NotHarshhaa/AWS-Projects)
+🔗 **Visit the AWS repository**: 
 
 ![AWS Projects](https://img.shields.io/badge/☁️%20AWS%20Projects-Dedicated%20AWS%20Learning%20Hub-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
@@ -156,7 +156,7 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 >
 > **We follow best practices for contribution.**
 
-[![Contributing](https://img.shields.io/badge/Contribute-Guide-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/CONTRIBUTING.md)
+[![Contributing](https://img.shields.io/badge/Contribute-Guide-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white)]()
 
 ---
 
@@ -165,8 +165,8 @@ For comprehensive AWS-specific projects and hands-on learning experiences, visit
 > [!IMPORTANT]
 > Be a part of our active DevOps community:
 
-[![Join Telegram](https://img.shields.io/badge/Join%20Us%20on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) 
-[![Follow on GitHub](https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)
+[![Join Telegram](https://img.shields.io/badge/Join%20Us%20on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]() 
+[![Follow on GitHub](https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
 ---
 
@@ -187,14 +187,4 @@ Your feedback and contributions are welcome!
 ![Author Badge](https://img.shields.io/badge/🛠️%20Author%20&%20Community-Crafted%20with%20Passion%20by%20the%20Community-8a2be2?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-## 📧 **Connect with me:**
 
-
-
----
-
-## 📢 **Stay Connected**
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
-
-![Stay Connected](https://img.shields.io/badge/📢%20Stay%20Connected-Join%20our%20DevOps%20Community-orange?style=for-the-badge&logo=telegram&logoColor=white)

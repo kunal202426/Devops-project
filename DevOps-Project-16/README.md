@@ -810,7 +810,7 @@ I’d love to hear your feedback! Feel free to share your thoughts.
 
 - **GitHub**: [Your GitHub Username](https://github.com/your-github-username)
 - **Blog**: [Community Blog]()  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
+- **Telegram Community**: [Join Here]()  
 
 ---
 

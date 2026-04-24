@@ -21,7 +21,7 @@ Let’s dive in and explore how to set up a real-time CI/CD pipeline for deployi
 1. Intially clone the github repository.
 
 ```go
-git clone https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-32/JavaApp-CICD.git
+git clone <your-repo-url>
 ```
 
 2\. Install & Configure Terraform and AWS CLI on your local machine to create Jenkins Server on AWS Cloud.\\
@@ -300,14 +300,14 @@ ii. Through the container deployed on the same instance.
 
 ## 🛠️ Author & Community  
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
+This project is crafted and maintained by the open-source community.  
 I’d love to hear your feedback! Feel free to share your thoughts.  
 
 📧 **Connect with me:**
 
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
+- **GitHub**: [Your GitHub Username](https://github.com/your-github-username)
+- **Blog**: [Community Blog]()  
+- **Telegram Community**: [Join Here]()  
 
 ---
 

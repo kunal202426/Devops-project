@@ -32,7 +32,7 @@ I will use EKSCTL utility to set up the EKS cluster with Managed node group
 
 You must install the EKSCTL, AWS CLI, Kubectl, and Helm to follow along in the blog post, and Also the credentials for your AWS accounts to create the resources.
 
-Note: [I have kept the complete code for backend, frontend, and k8s manifest files in my public GitHub repo.](https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-36/3-tier-app-eks)
+Note: [The complete code for backend, frontend, and k8s manifest files is available in this repository.]()
 
 ```bash
 # EKS ctl command to build an EKS cluster with a managed node group
@@ -212,7 +212,7 @@ I have built the application images on Docker Hub, will use these images.
 #### **Clone the repo**
 
 ```bash
-git clone https://github.com/NotHarshhaa/DevOps-Projects/DevOps-Project-36/3-tier-app-eks
+git clone <your-repo-url>
 cd 3-tier-app-eks/k8s
 tree .
 ```
@@ -677,14 +677,14 @@ It takes some time for the DNS change to reflect, try pasting the subdomain (`ap
 
 ## 🛠️ **Author & Community**
 
-This project is crafted by [**Harshhaa**](https://github.com/NotHarshhaa) 💡.  
+This project is crafted and maintained by the open-source community.  
 I’d love to hear your feedback! Feel free to share your thoughts.
 
 ---
 
 ### 📧 **Connect with me:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)
+
 
 ---
 

@@ -14,7 +14,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 <summary><strong>🔧 Step 1: Infrastructure Provisioning (Terraform)</strong></summary>
 
 - Provisioned **VPC**, **Security Groups**, **Ansible Controller**, **Jenkins Master**, and **Agent Instances** using Terraform.  
-🔗 [Step Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step1.md#L1)
+🔗 [Step Details]()
 
 </details>
 
@@ -22,7 +22,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 <summary><strong>🔐 Step 2: SSH Configuration</strong></summary>
 
 - Set up password-less authentication between Ansible Controller and Agent nodes.  
-🔗 [Step Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step2.md#L1)
+🔗 [Step Details]()
 
 </details>
 
@@ -31,7 +31,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 
 - Configured Jenkins Master and Agent nodes.  
 - Agent configured as **Maven Build Server**.  
-🔗 [Step Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step3.md#L1)
+🔗 [Step Details]()
 
 </details>
 
@@ -39,7 +39,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 <summary><strong>🔗 Step 4: Jenkins Master-Agent Integration</strong></summary>
 
 - Connected Jenkins Master to Agent with credentials.  
-🔗 [Step Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step4.md#L1)
+🔗 [Step Details]()
 
 </details>
 
@@ -48,7 +48,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 
 - Added GitHub credentials.  
 - Created **Multibranch Pipeline Job**.  
-🔗 [Step Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step5.md#L1)
+🔗 [Step Details]()
 
 </details>
 
@@ -56,7 +56,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 <summary><strong>🚨 Step 6: Webhook Trigger Setup</strong></summary>
 
 - Configured GitHub webhook trigger using **Multibranch Scan Webhook Trigger Plugin**.  
-🔗 [Step Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step6.md#L1)
+🔗 [Step Details]()
 
 </details>
 
@@ -68,7 +68,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 - Added SonarQube server and scanner to Jenkins.  
 - Configured `sonar-project.properties`.  
 - Added **code quality**, **unit test**, and **build** stages in `Jenkinsfile`.  
-🔗 [Step-by-step Setup](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step7.md#L3)
+🔗 [Step-by-step Setup]()
 
 </details>
 
@@ -77,7 +77,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 
 - Configured JFrog credentials.  
 - Installed Artifactory plugin in Jenkins.  
-🔗 [Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step8.md#L1)
+🔗 [Details]()
 
 </details>
 
@@ -87,7 +87,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 - Built Docker image from `.jar`.  
 - Pushed to JFrog Artifactory using **Docker Pipeline Plugin**.  
 - Added **Docker Build & Publish** stage to Jenkinsfile.  
-🔗 [Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step9.md#L1)
+🔗 [Details]()
 
 </details>
 
@@ -101,7 +101,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
   aws eks update-kubeconfig --region <region_name> --name <cluster_name>
   ```
 
-🔗 [Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step10.md#L3)
+🔗 [Details]()
 
 </details>
 
@@ -111,7 +111,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 - Pulled Docker image using Kubernetes secrets.  
 - Deployed it to EKS cluster using **Deployment** and **Service** resources.  
 - Exposed via LoadBalancer.  
-🔗 [Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step11.md#L1)
+🔗 [Details]()
 
 </details>
 
@@ -121,7 +121,7 @@ A comprehensive end-to-end CI/CD pipeline leveraging **Terraform**, **Ansible**,
 - Added Prometheus Helm repo.  
 - Enabled monitoring in EKS cluster.  
 - Changed Prometheus and Grafana services to `LoadBalancer` for browser access.  
-🔗 [Details](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-06/Steps/step12.md#L1)
+🔗 [Details]()
 
 </details>
 
